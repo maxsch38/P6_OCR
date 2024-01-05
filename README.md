@@ -49,7 +49,8 @@ Dans ce dépôt, vous trouverez :
 3. Le notebook de l'étude de faisabilité en combinant le texte et les images : Notebook_3_texte+image_fasabilite.ipynb
 4. Le notebook de l'étude de la classification supervisée à partir des images : Notebook_4_classification_supervisee_image.ipynb
 5. Le script python pour l'extraction des produits à base de champagne de l'API : Extraction_produits_champagne.py
-6. Le dossier contenant les scirpts python des fonctions utilisées dans les notebook : fonctions/
-4. Le support de présentation : Présentation.pdf
-5. Le logo de la société : logo_place_de_marche.png
-6. Le fichier contenant les dépendances nécessaires : requirements.txt
+6. L'extraction des 10 premiers produits à base de champagne sous format csv: Extraction_10_prduits_champagne.csv
+7. Le dossier contenant les scirpts python des fonctions utilisées dans les notebook : fonctions/
+8. Le support de présentation : Présentation.pdf
+9. Le logo de la société : logo_place_de_marche.png
+10. Le fichier contenant les dépendances nécessaires : requirements.txt
